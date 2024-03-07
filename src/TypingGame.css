@@ -1,9 +1,12 @@
 /* TypingGame.css */
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+
 .game-container {
   background-color: #000;
   color: #fff;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Roboto Mono', Courier, monospace;
   text-align: center;
   padding: 20px;
   height: 100vh;
